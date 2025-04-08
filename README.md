@@ -6,7 +6,7 @@ Desenvolvedora web em formação | Foco em aplicações Full Stack 🚀
 
 ---
 
-### 👩‍💻 Sobre mim
+###  Sobre mim
 
 Desenvolvedora web em formação, com foco em aplicações **full stack**.
 
