@@ -36,18 +36,3 @@ Desenvolvedora web em formação, com foco em aplicações **full stack**.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=taynarasouza&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taynarasouza&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=taynarasouza&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
