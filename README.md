@@ -1,7 +1,7 @@
 <h1 align="center">Taynara Souza</h1>
 
 <p align="center">
-Desenvolvedora web em formação | Foco em aplicações Full Stack 🚀
+Desenvolvedora em formação | Foco em aplicações Full Stack 🚀
 </p>
 
 ---
