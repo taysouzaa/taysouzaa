@@ -4,6 +4,7 @@
 💡 Técnica em Desenvolvimento de Sistemas | Foco em Back-End, Automação e APIs
 </p>
 
+---
 
 ### 🎓 Sobre mim
 
@@ -13,7 +14,7 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
 
 ---
 
-### 
+### 🛠️ Stacks
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,6 +30,7 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
+
 ---
 
 ### 🌍 Idiomas
@@ -41,10 +43,19 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
 
 ---
 
-### Contato
+### 📫 Contato
 
-📌 www.linkedin.com/in/taynara-correia-souza  
-📧 taynara.souza.dev@gmail.com
+<div align="left">
+  <a href="https://www.linkedin.com/in/taynara-correia-souza" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:taynara.souza.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5519935003600" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
 ---
 
