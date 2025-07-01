@@ -3,18 +3,13 @@
 <p align="center">
 💡 Técnica em Desenvolvimento de Sistemas | Foco em Back-End, Automação e APIs
 </p>
-
-<p align="center">
-🚀 Desenvolvendo soluções que conectam lógica, automação e experiências reais
-</p>
-
 ---
 
-### 👩‍💻 Sobre mim
+### 🎓 Sobre mim
 
 Sou uma desenvolvedora com forte interesse em **back-end**, automação e integração de sistemas. Técnica em Desenvolvimento de Sistemas, trabalho com APIs, bancos de dados, automações e soluções modernas com foco em eficiência e escalabilidade.
 
-Curto explorar ferramentas como **n8n**, **Docker**, **MongoDB** e **Google Cloud**, além de desenvolver **páginas web** e **aplicações mobile**. Estou sempre aprendendo e construindo projetos que geram impacto.
+Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ênfase em back-end**, automações e APIs. Gosto de integrar sistemas, criar lógicas eficientes e otimizar processos com ferramentas modernas. Estou sempre explorando novas tecnologias e criando soluções reais que podem facilitar o dia a dia de pessoas e empresas.
 
 ---
 
@@ -60,17 +55,8 @@ Curto explorar ferramentas como **n8n**, **Docker**, **MongoDB** e **Google Clou
 
 ### 📫 Contato
 
-<div align="left">
-  <a href="www.linkedin.com/in/taynara-correia-souza" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="taynara.souza.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
+📌 www.linkedin.com/in/taynara-correia-souza  
+📧 taynara.souza.dev@gmail.com
 
 ---
 
