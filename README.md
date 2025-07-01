@@ -1,66 +1,60 @@
 <h1 align="center">Taynara Souza</h1>
 
 <p align="center">
-Técnica em Desenvolvimento de Sistemas | Desenvolvedora Full Stack em formação
+💡 Técnica em Desenvolvimento de Sistemas | Foco em Back-End e Automação
+</p>
+
+<p align="center">
+🚀 Apaixonada por transformar lógica em soluções reais com tecnologia
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+### 🎓 Sobre mim
 
-Sou uma desenvolvedora com grande interesse por tecnologia, automação e soluções digitais inteligentes. Como técnica em Desenvolvimento de Sistemas, venho construindo aplicações web e mobile com foco em usabilidade, boas práticas e escalabilidade.
-
-Atualmente, estou envolvida em projetos que combinam desenvolvimento Full Stack com ferramentas de automação e lógica aplicada, explorando também recursos de **inteligência artificial**.
-
-Gosto de criar interfaces acessíveis, back-ends eficientes e fluxos automatizados que resolvem problemas reais. Estou sempre buscando aprender mais e compartilhar conhecimento.
+Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ênfase em back-end**, automações e APIs. Gosto de integrar sistemas, criar lógicas eficientes e otimizar processos com ferramentas modernas. Estou sempre explorando novas tecnologias e criando soluções reais que podem facilitar o dia a dia de pessoas e empresas.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+### 🔧 Stacks e Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Glide-47B881?style=for-the-badge&logo=glide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
 ---
 
-## 🛠️ O que eu desenvolvo
+### 💼 Projetos e Interesses
 
-- 🌐 **Páginas web** com foco em responsividade e acessibilidade  
-- 📱 **Aplicativos mobile** (com ferramentas no-code como Glide)  
-- 🔌 **APIs e back-end** com Node.js e integração com bancos de dados  
-- 🤖 **Automação de processos** e fluxos inteligentes  
-- 🧠 Projetos com **IA aplicada** a soluções práticas  
-
----
-
-## 💡 Projetos em andamento
-
-- Plataforma de e-commerce  
-- Sistema de agendamento de consultas  
-- WebApp de lista de tarefas (To-Do List) com React  
-- Sistema de estoque escolar com automações integradas  
+- 🔧 Aplicações back-end com Node.js e Python  
+- 📦 APIs RESTful e integração com banco de dados  
+- ⚙️ Automação de processos com **n8n** e **scripts personalizados**  
+- 🐳 Containerização com Docker  
+- 📈 Foco em clean code, segurança e escalabilidade
 
 ---
 
-## 🌍 Idiomas
+### 🌍 Idiomas
 
 - 🇧🇷 Português — nativo  
-- 🇪🇸 Espanhol — avançado  
 - 🇺🇸 Inglês — em aprendizado  
+- 🇪🇸 Espanhol — avançado  
 
 ---
 
-## 📬 Contato
+### 📬 Contato
 
-Conecte-se comigo no www.linkedin.com/in/taynara-correia-souza para trocar ideias, colaborações ou oportunidades.  
-Estou sempre aberta a novos desafios!
+Quer conversar, trocar ideias ou trabalhar junto?
+
+📫 [LinkedIn]www.linkedin.com/in/taynara-correia-souza  
+📧 taynara.souza.dev@gmail.com
 
 ---
+
