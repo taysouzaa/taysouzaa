@@ -3,7 +3,7 @@
 <p align="center">
 💡 Técnica em Desenvolvimento de Sistemas | Foco em Back-End, Automação e APIs
 </p>
----
+
 
 ### 🎓 Sobre mim
 
@@ -13,7 +13,7 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
 
 ---
 
-### 🧰 Stacks e Ferramentas
+### 
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,18 +29,6 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
-
----
-
-### 🚀 Áreas de interesse
-
-- Desenvolvimento **Back-End** com Node.js e Python  
-- Criação de **APIs RESTful** e microsserviços  
-- Integração com **bancos de dados** SQL e NoSQL  
-- **Automação de processos** com n8n e scripts personalizados  
-- **Docker e Deploy** em ambiente cloud  
-- Aplicações modernas com **React** no front-end
-
 ---
 
 ### 🌍 Idiomas
@@ -53,7 +41,7 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
 
 ---
 
-### 📫 Contato
+### Contato
 
 📌 www.linkedin.com/in/taynara-correia-souza  
 📧 taynara.souza.dev@gmail.com
