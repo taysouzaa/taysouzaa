@@ -7,7 +7,7 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com ênf
 
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,TypeScript,javascript,react,nodejs,mongodb,github,googlecloud,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,Ts,javascript,react,nodejs,mongodb,github,googlecloud,mysql,docker,git)](https://skillicons.dev)
 
 
 Reach me out here: <um href="mailto:taynara.souza.dev@gmail.com" target="__blank">taynara.souza.dev@gmail.com</um>
