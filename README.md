@@ -7,15 +7,14 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
 
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=ts,python,javascript,react,nodejs,mongodb,postgres,github,googlecloud,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,react,nodejs,mongodb,postgres,github,googlecloud,mysql,docker,git)](https://skillicons.dev)
 
 
-Reach me out here: <a href="mailto:taynara.souza.dev@gmail.com" target="__blank">taynara.souza.dev@gmail.com</a>
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https:www.linkedin.com/in/taynara-correia-souza)
+Reach me out here: <um href="mailto:taynara.souza.dev@gmail.com" target="__blank">taynara.souza.dev@gmail.com</um>
 
 ### Idiomas
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") English in progress
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") English in progress</br>
 ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Advanced Spanish
 
 
