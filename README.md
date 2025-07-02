@@ -1,5 +1,5 @@
 ## 👩🏻‍💻 **Taynara Souza**
- ````Back-End Developer |Técnica em Desenvolvimento de Sistemas```
+ ````Back-End Developer |Técnica em Desenvolvimento de Sistemas````
 
 Sou uma desenvolvedora com forte interesse em **back-end**, automação e integração de sistemas. Técnica em Desenvolvimento de Sistemas, trabalho com APIs, bancos de dados, automações e soluções modernas com foco em eficiência e escalabilidade.
 
@@ -7,7 +7,7 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com **ê
 
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,react,nodejs,mongodb,postgres,github,googlecloud,mysql,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,react,nodejs,mongodb,github,googlecloud,mysql,docker,git)](https://skillicons.dev)
 
 
 Reach me out here: <um href="mailto:taynara.souza.dev@gmail.com" target="__blank">taynara.souza.dev@gmail.com</um>
