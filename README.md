@@ -1,5 +1,5 @@
 ## 👩🏻‍💻 **Taynara Souza**
- ````Back-End Developer |Técnica em Desenvolvimento de Sistemas````
+ ````Full Stack Developer |Técnica em Desenvolvimento de Sistemas````
 
 Sou uma desenvolvedora com forte interesse em back-end, automação e integração de sistemas. Técnica em Desenvolvimento de Sistemas, trabalho com APIs, bancos de dados, automações e soluções modernas com foco em eficiência e escalabilidade.
 
