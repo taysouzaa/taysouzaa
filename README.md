@@ -1,13 +1,13 @@
 ## 👩🏻‍💻 **Taynara Souza**
  ````Full Stack Developer |Técnica em Desenvolvimento de Sistemas````
 
-Sou uma desenvolvedora apaixonada por *back-end, automação e integração de sistemas, com foco em criar soluções **eficientes, escaláveis e inovadoras**.
+Desenvolvedora Full Stack generalista com experiência na construção de plataformas web, sistemas internos e soluções voltadas para eficiência operacional.
 
-Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com ênfase em back-end, automações e APIs. Gosto de integrar sistemas, criar lógicas eficientes e otimizar processos com ferramentas modernas. Estou sempre explorando novas tecnologias e criando soluções reais que podem facilitar o dia a dia de pessoas e empresas.
+Atuo com foco em **back-end, automação e integração de sistemas**, desenvolvendo aplicações que otimizam processos, padronizam operações e apoiam a tomada de decisão.
 
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,javascript,react,github,googlecloud,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,python,java,mysql,prisma,firebase,supabase,googlecloud,docker,git,github,figma,vscode)](https://skillicons.dev)
 
 
 ---
@@ -19,11 +19,17 @@ Atualmente estudo e desenvolvo projetos como desenvolvedora Full Stack, com ênf
 
 ---
 
-## 📫 Contato
-- ✉ [taynara.souza.dev@gmail.com](mailto:taynara.souza.dev@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/taynara-correia-souza/) 
-- 💼 [Portfólio/Projetos](https://portfolio-seven-olive-48.vercel.app/) 
+##  Contato
 
- ---
+Interessada em projetos de desenvolvimento, automação e integrações.
 
-> “A tecnologia é mais poderosa quando usada para resolver problemas reais e facilitar a vida das pessoas.”
+Se quiser conversar sobre uma oportunidade ou parceria:
+
+- **Email:** [taynara.souza.dev@gmail.com](mailto:taynara.souza.dev@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)  
+- **Portfólio:** [portfolio-seven-olive-48.vercel.app](https://portfolio-seven-olive-48.vercel.app/)  
+
+---
+
+
+> Tecnologia é ferramenta. O valor está na solução que ela entrega.
