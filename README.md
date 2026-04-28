@@ -1,9 +1,11 @@
 ## 👩🏻‍💻 **Taynara Souza**
  ````Full Stack Developer |Técnica em Desenvolvimento de Sistemas````
 
-Desenvolvedora Full Stack generalista com experiência na construção de plataformas web, sistemas internos e soluções voltadas para eficiência operacional.
+Desenvolvedora Full Stack na **Método P4**, onde cuido de toda a área de T.I. da empresa — do primeiro commit ao deploy em produção.
 
-Atuo com foco em **back-end, automação e integração de sistemas**, desenvolvendo aplicações que otimizam processos, padronizam operações e apoiam a tomada de decisão.
+Trabalho com **front-end** (interfaces modernas e responsivas), **back-end** (APIs, automações e integrações), **análise de dados** e construção de **dashboards** que transformam informação em decisão. Também gerencio infraestrutura, configuro deploys e conecto sistemas via APIs externas.
+
+Gosto de resolver problemas reais do começo ao fim — do design ao banco de dados, da ideia ao ar.
 
 
 ### Stacks
