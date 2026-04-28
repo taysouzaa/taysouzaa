@@ -1,21 +1,23 @@
-## 👩🏻‍💻 **Taynara Souza**
- ````Full Stack Developer |Técnica em Desenvolvimento de Sistemas````
+## 👩🏻‍💻 Taynara Souza
 
-Desenvolvedora Full Stack generalista com experiência na construção de plataformas web, sistemas internos e soluções voltadas para eficiência operacional.
+`Full Stack Developer | Técnica em Desenvolvimento de Sistemas | Programadora Júnior`
 
-Atuo com foco em **back-end, automação e integração de sistemas**, desenvolvendo aplicações que otimizam processos, padronizam operações e apoiam a tomada de decisão.
+Desenvolvedora Full Stack generalista com experiência end-to-end da concepção à entrega na construção de plataformas web, sistemas internos e soluções escaláveis voltadas à eficiência operacional.
 
-
-### Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,python,java,mysql,prisma,firebase,supabase,googlecloud,docker,git,github,figma,vscode)](https://skillicons.dev)
-
+Atuo em todo o ciclo de desenvolvimento: front-end, back-end, APIs, automações, pipelines de dados, dashboards analíticos e deploy em produção. Desenvolvo aplicações que otimizam processos, padronizam operações e transformam dados em decisões entregando valor de ponta a ponta, com visão técnica e vontade constante de evoluir.
 
 ---
 
-### Idiomas
-- ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) *Português (nativo)*  
-- ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png) *Espanhol (avançado)*
+### 🛠️ Stacks
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,python,java,mysql,prisma,firebase,supabase,googlecloud,docker,git,github,figma,vscode)](https://skillicons.dev)
+
+---
+
+### 🌐 Idiomas
+
+- ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) *Português (nativo)*
+- ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png) *Espanhol (avançado)*
 
 ---
 
@@ -27,17 +29,15 @@ Atuo com foco em **back-end, automação e integração de sistemas**, desenvolv
 
 ---
 
-##  Contato
+### 📬 Contato
 
-Interessada em projetos de desenvolvimento, automação e integrações.
-
+Aberta a projetos de desenvolvimento, automação e integrações.  
 Se quiser conversar sobre uma oportunidade ou parceria:
 
-- **Email:** [taynara.souza.dev@gmail.com](mailto:taynara.souza.dev@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)  
-- **Portfólio:** [portfolio-seven-olive-48.vercel.app](https://portfolio-seven-olive-48.vercel.app/)  
+- **Email:** [taynara.souza.dev@gmail.com](mailto:taynara.souza.dev@gmail.com)
+- **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)
+- **Portfólio:** [portfolio-seven-olive-48.vercel.app](https://portfolio-seven-olive-48.vercel.app/)
 
 ---
-
 
 > Tecnologia é ferramenta. O valor está na solução que ela entrega.
