@@ -1,48 +1,43 @@
-# Olá, sou Taynara Souza 👋
+## 👩🏻‍💻 Taynara Souza
 
-Desenvolvedora web com foco em automação de processos, integrações e interfaces que resolvem problemas reais.
+`Full Stack Developer | Técnica em Desenvolvimento de Sistemas | Programadora Júnior`
 
----
+Desenvolvedora Full Stack generalista com experiência end-to-end da concepção à entrega na construção de plataformas web, sistemas internos e soluções escaláveis voltadas à eficiência operacional.
 
-## 🚀 O que eu faço
-
-- 🔧 **Automação:** fluxos N8N com webhooks, Google Sheets e APIs externas
-- 🌐 **Frontend:** landing pages, portfólios e sistemas web com HTML, CSS, JS e React
-- 🤖 **IA aplicada:** agentes inteligentes, busca semântica e integrações com LLMs
-- 📊 **Back-end:** APIs REST com Node.js, Fastify, TypeScript e PostgreSQL
+Atuo em todo o ciclo de desenvolvimento: front-end, back-end, APIs, automações, pipelines de dados, dashboards analíticos e deploy em produção. Desenvolvo aplicações que otimizam processos, padronizam operações e transformam dados em decisões entregando valor de ponta a ponta, com visão técnica e vontade constante de evoluir.
 
 ---
 
-## 🛠 Stack principal
+### 🛠️ Stacks
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![N8N](https://img.shields.io/badge/-N8N-FF6D00?logo=n8n&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,python,java,mysql,prisma,firebase,supabase,googlecloud,docker,git,github,figma,vscode)](https://skillicons.dev)
 
 ---
 
-## 📌 Projetos em destaque
+### 🌐 Idiomas
 
-| Projeto | Descrição |
-|---------|-----------|
-| [nlw-agents-aulas-server](https://github.com/taysouzaa/nlw-agents-aulas-server) | Servidor de agentes IA com busca vetorial (pgvector + Fastify) |
-| [Taynara.Souza](https://github.com/taysouzaa/Taynara.Souza) | Portfólio pessoal com React + TypeScript + Tailwind |
-| [Gerador-de-senhas-](https://github.com/taysouzaa/Gerador-de-senhas-) | CLI TypeScript para geração de senhas seguras |
-| [Roe-Registro-Ocorrencia-Escolar](https://github.com/taysouzaa/Roe-Registro-Ocorrencia-Escolar) | Sistema escolar com n8n, Google Sheets e Gmail |
+- ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) *Português (nativo)*
+- ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png) *Espanhol (avançado)*
 
 ---
 
-## 📫 Contato
+### 📊 Atividade
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/taysouzaa)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?logo=vercel&logoColor=white&style=flat)](https://portfolio-seven-olive-48.vercel.app/)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taysouzaa&theme=tokyo-night&hide_border=true&area=true&point=3B82F6&line=1D4ED8&color=93C5FD" />
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taysouzaa&show_icons=true&theme=dark&hide_border=true)
+### 📬 Contato
+
+Aberta a projetos de desenvolvimento, automação e integrações.  
+Se quiser conversar sobre uma oportunidade ou parceria:
+
+- **Email:** [souza.codes@gmail.com](mailto:souza.codes@gmail.com@gmail.com)
+- **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)
+- **Portfólio:** [portfolio-seven-olive-48.vercel.app](https://portfolio-seven-olive-48.vercel.app/)
+
+---
+
+> Tecnologia é ferramenta. O valor está na solução que ela entrega.
