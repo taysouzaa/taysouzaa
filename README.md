@@ -10,7 +10,28 @@ Atuo em todo o ciclo de desenvolvimento: front-end, back-end, APIs, automações
 
 ### 🛠️ Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,python,java,mysql,prisma,firebase,supabase,googlecloud,docker,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,vite,tailwind,python,postgres,prisma,supabase,aws,gcp,docker,git,github,figma,vscode)](https://skillicons.dev)
+
+Também trabalho com **n8n** (automação de fluxos), **Pagar.me** e **Notion API** — sem ícone na régua acima.
+
+---
+
+### 💼 Projetos
+
+A maior parte do que construo vive em repositórios privados de cliente. O que está público aqui é uma fração — abaixo, o trabalho que não aparece na lista de repos.
+
+**Método P4** — consultoria especializada em marketplaces:
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| **Cockpit Comercial** | CRM de captação, distribuição e qualificação de leads, com agenda, comissões e dashboards. Substituiu a operação comercial inteira, que rodava em planilhas. | React 18 · TypeScript · Supabase (Postgres + RLS + Edge Functions) · n8n |
+| **SPI** | SaaS que padroniza imagens de produto para 6 marketplaces. O processamento é no navegador via Canvas API — a imagem original nunca sai do cliente. | React · Vite · Node + Express · Prisma · PostgreSQL · AWS (S3, EC2, Amplify) |
+| **Cobrança Recorrente** | Automação de cobrança com entrada e mensalidade vitalícia. Webhook idempotente que confirma o pagamento na fonte antes de criar a assinatura. | n8n · Pagar.me API · Notion API |
+| **Site institucional + blog** | Site com blog, ferramentas gratuitas para sellers e captação de leads via proxy same-origin, para manter credencial fora do cliente. | HTML · CSS · JS · PHP · Apache |
+| **8 landing pages** | Captação e qualificação para campanhas pagas e orgânicas: tracking de UTM, fila de reenvio no navegador e cálculo de MQL antes do envio. | HTML · CSS · JS · PHP · n8n |
+| **Calculadoras de precificação** | Simulação de margem de contribuição e ROAS de equilíbrio por marketplace, com histórico sincronizado entre dispositivos. | React · TypeScript · AWS DynamoDB |
+
+Públicos neste perfil: **[portfólio](https://github.com/taysouzaa/Taynara.Souza)** (React + TS + Tailwind) · **[MetaAssistente](https://github.com/taysouzaa/MetaAssistente)** (WhatsApp Business via Meta Cloud API) · **[api-imersao](https://github.com/taysouzaa/api-imersao)** (FastAPI + Docker + Cloud Run) · **[R.O.E.](https://github.com/taysouzaa/Roe-Registro-Ocorrencia-Escolar)** (TCC).
 
 ---
 
