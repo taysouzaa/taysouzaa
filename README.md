@@ -34,9 +34,9 @@ Atuo em todo o ciclo de desenvolvimento: front-end, back-end, APIs, automações
 Aberta a projetos de desenvolvimento, automação e integrações.  
 Se quiser conversar sobre uma oportunidade ou parceria:
 
-- **Email:** [souza.codes@gmail.com](mailto:souza.codes@gmail.com@gmail.com)
+- **Email:** [souza.codes@gmail.com](mailto:souza.codes@gmail.com)
 - **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)
-- **Portfólio:** [portfolio-seven-olive-48.vercel.app](https://portfolio-seven-olive-48.vercel.app/)
+- **Portfólio:** [taynarasouza.vercel.app](https://taynarasouza.vercel.app/)
 
 ---
 
