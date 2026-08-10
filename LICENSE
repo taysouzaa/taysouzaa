@@ -1,21 +1,70 @@
-MIT License
+LICENÇA PROPRIETÁRIA — TODOS OS DIREITOS RESERVADOS
 
-Copyright (c) 2026 Taynara Souza
+Copyright (c) 2026 Taynara Souza <souza.codes@gmail.com>
+Todos os direitos reservados.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este repositório é público com um único propósito: demonstrar trabalho
+profissional e capacidade técnica. Ver e avaliar o código é permitido.
+Reutilizá-lo, não.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+TITULARIDADE
+Este software e seus arquivos relacionados (o "Software") são propriedade
+intelectual exclusiva de Taynara Souza, protegidos pela Lei nº 9.609/1998
+(Lei do Software), pela Lei nº 9.610/1998 (Direitos Autorais) e por tratados
+internacionais de direitos autorais.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+O QUE É PERMITIDO
+  - Visualizar e ler o código para fins de avaliação profissional ou estudo.
+
+O QUE É PROIBIDO, sem autorização prévia e por escrito da autora:
+  - Copiar, reproduzir ou distribuir o Software, total ou parcialmente;
+  - Modificar, adaptar, traduzir ou criar obras derivadas;
+  - Incorporar o Software, no todo ou em parte, a qualquer outro projeto;
+  - Usar o Software para qualquer finalidade comercial;
+  - Fazer engenharia reversa, descompilar ou desmontar o Software;
+  - Remover ou alterar avisos de direitos autorais ou marcas.
+
+GARANTIA
+O Software é fornecido "como está", sem garantias de qualquer espécie. Em
+nenhuma hipótese a autora será responsabilizada por danos decorrentes de seu uso.
+
+AUTORIZAÇÃO
+Para solicitar qualquer uso além da simples visualização, entre em contato
+ANTES de utilizar:
+  souza.codes@gmail.com
+
+-------------------------------------------------------------------------------
+
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Taynara Souza <souza.codes@gmail.com>
+All rights reserved.
+
+This repository is public for one purpose only: to demonstrate professional
+work and technical ability. Reading and evaluating the code is permitted.
+Reusing it is not.
+
+OWNERSHIP
+This software and its related files (the "Software") are the exclusive
+intellectual property of Taynara Souza, protected under Brazilian Law
+No. 9.609/1998 (Software Law), Law No. 9.610/1998 (Copyright) and
+international copyright treaties.
+
+PERMITTED
+  - Viewing and reading the code for professional evaluation or study.
+
+PROHIBITED without prior written permission from the author:
+  - Copying, reproducing, or distributing the Software, in whole or in part;
+  - Modifying, adapting, translating, or creating derivative works;
+  - Incorporating the Software, in whole or in part, into any other project;
+  - Using the Software for any commercial purpose;
+  - Reverse engineering, decompiling, or disassembling the Software;
+  - Removing or altering copyright notices or trademarks.
+
+WARRANTY
+The Software is provided "as is", without warranty of any kind. In no event
+shall the author be liable for any damages arising from its use.
+
+PERMISSION REQUESTS
+To request any use beyond simple viewing, contact BEFORE using:
+  souza.codes@gmail.com
