@@ -1,6 +1,6 @@
-## 👩🏻‍💻 Taynara Souza
+## Taynara Souza
 
-`Full Stack Developer | Técnica em Desenvolvimento de Sistemas | Programadora Júnior`
+`Full Stack Developer · Sites, ferramentas, sistemas e automações — da concepção ao deploy em produção.`
 
 Desenvolvedora Full Stack generalista com experiência end-to-end da concepção à entrega na construção de plataformas web, sistemas internos e soluções escaláveis voltadas à eficiência operacional.
 
@@ -8,7 +8,7 @@ Atuo em todo o ciclo de desenvolvimento: front-end, back-end, APIs, automações
 
 ---
 
-### 🛠️ Stacks
+###  Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,vite,tailwind,python,postgres,prisma,supabase,aws,gcp,docker,git,github,figma,vscode)](https://skillicons.dev)
 
@@ -16,7 +16,7 @@ Também trabalho com **n8n** (automação de fluxos), **Pagar.me** e **Notion AP
 
 ---
 
-### 💼 Projetos
+###  Projetos
 
 A maior parte do que construo vive em repositórios privados de cliente. O que está público aqui é uma fração — abaixo, o trabalho que não aparece na lista de repos.
 
@@ -31,33 +31,24 @@ A maior parte do que construo vive em repositórios privados de cliente. O que e
 | **8 landing pages** | Captação e qualificação para campanhas pagas e orgânicas: tracking de UTM, fila de reenvio no navegador e cálculo de MQL antes do envio. | HTML · CSS · JS · PHP · n8n |
 | **Calculadoras de precificação** | Simulação de margem de contribuição e ROAS de equilíbrio por marketplace, com histórico sincronizado entre dispositivos. | React · TypeScript · AWS DynamoDB |
 
-Públicos neste perfil: **[portfólio](https://github.com/taysouzaa/Taynara.Souza)** (React + TS + Tailwind) · **[MetaAssistente](https://github.com/taysouzaa/MetaAssistente)** (WhatsApp Business via Meta Cloud API) · **[api-imersao](https://github.com/taysouzaa/api-imersao)** (FastAPI + Docker + Cloud Run) · **[R.O.E.](https://github.com/taysouzaa/Roe-Registro-Ocorrencia-Escolar)** (TCC).
 
 ---
 
-### 🌐 Idiomas
+### Idiomas
 
 - ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) *Português (nativo)*
 - ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png) *Espanhol (avançado)*
 
 ---
 
-### 📊 Atividade
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taysouzaa&theme=tokyo-night&hide_border=true&area=true&point=3B82F6&line=1D4ED8&color=93C5FD" />
-</div>
-
----
-
-### 📬 Contato
+### Contato
 
 Aberta a projetos de desenvolvimento, automação e integrações.  
 Se quiser conversar sobre uma oportunidade ou parceria:
 
 - **Email:** [souza.codes@gmail.com](mailto:souza.codes@gmail.com)
 - **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)
-- **Portfólio:** [taynarasouza.vercel.app](https://taynarasouza.vercel.app/)
+- **Portfólio:** https://taynarasouza.vercel.app
 
 ---
 
