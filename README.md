@@ -2,13 +2,13 @@
 
 `Full Stack Developer · Sites, ferramentas, sistemas e automações — da concepção ao deploy em produção.`
 
-Desenvolvedora Full Stack generalista com experiência end-to-end da concepção à entrega na construção de plataformas web, sistemas internos e soluções escaláveis voltadas à eficiência operacional.
+Construo sistemas que substituem operação manual: CRM comercial, automação de cobrança recorrente, SaaS de processamento de imagem e páginas de captação de leads.
 
-Atuo em todo o ciclo de desenvolvimento: front-end, back-end, APIs, automações, pipelines de dados, dashboards analíticos e deploy em produção. Desenvolvo aplicações que otimizam processos, padronizam operações e transformam dados em decisões entregando valor de ponta a ponta, com visão técnica e vontade constante de evoluir.
+Trabalho o ciclo inteiro — front-end, API, banco, integração e infraestrutura. Quase tudo o que está abaixo roda em produção hoje, atendendo operação real.
 
 ---
 
-###  Stacks
+### Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,vite,tailwind,python,postgres,prisma,supabase,aws,gcp,docker,git,github,figma,vscode)](https://skillicons.dev)
 
@@ -16,16 +16,16 @@ Também trabalho com **n8n** (automação de fluxos), **Pagar.me** e **Notion AP
 
 ---
 
-###  Projetos
+### Projetos
 
-A maior parte do que construo vive em repositórios privados de cliente. O que está público aqui é uma fração — abaixo, o trabalho que não aparece na lista de repos.
+A maior parte do que construo vive em repositórios privados de cliente. Abaixo está o trabalho que não aparece na lista de repos — com exceção do SPI, cujo código publiquei em [spi-showcase](https://github.com/taysouzaa/spi-showcase).
 
 **Método P4** — consultoria especializada em marketplaces:
 
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | **Cockpit Comercial** | CRM de captação, distribuição e qualificação de leads, com agenda, comissões e dashboards. Substituiu a operação comercial inteira, que rodava em planilhas. | React 18 · TypeScript · Supabase (Postgres + RLS + Edge Functions) · n8n |
-| **SPI** | SaaS que padroniza imagens de produto para 6 marketplaces. O processamento é no navegador via Canvas API — a imagem original nunca sai do cliente. | React · Vite · Node + Express · Prisma · PostgreSQL · AWS (S3, EC2, Amplify) |
+| **SPI** — [código público](https://github.com/taysouzaa/spi-showcase) | SaaS que padroniza imagens de produto para 6 marketplaces. O processamento é no navegador via Canvas API — a imagem original nunca sai do cliente. | React · Vite · Node + Express · Prisma · PostgreSQL · AWS (S3, EC2, Amplify) |
 | **Cobrança Recorrente** | Automação de cobrança com entrada e mensalidade vitalícia. Webhook idempotente que confirma o pagamento na fonte antes de criar a assinatura. | n8n · Pagar.me API · Notion API |
 | **Site institucional + blog** | Site com blog, ferramentas gratuitas para sellers e captação de leads via proxy same-origin, para manter credencial fora do cliente. | HTML · CSS · JS · PHP · Apache |
 | **8 landing pages** | Captação e qualificação para campanhas pagas e orgânicas: tracking de UTM, fila de reenvio no navegador e cálculo de MQL antes do envio. | HTML · CSS · JS · PHP · n8n |
@@ -48,7 +48,7 @@ Se quiser conversar sobre uma oportunidade ou parceria:
 
 - **Email:** [souza.codes@gmail.com](mailto:souza.codes@gmail.com)
 - **LinkedIn:** [linkedin.com/in/taynara-correia-souza](https://www.linkedin.com/in/taynara-correia-souza/)
-- **Portfólio:** https://taynarasouza.vercel.app
+- **Portfólio:** [taynarasouza.vercel.app](https://taynarasouza.vercel.app)
 
 ---
 
