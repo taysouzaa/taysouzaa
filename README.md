@@ -25,13 +25,9 @@ Cada projeto tem um **[estudo de caso](case-studies/)**: o problema, as decisõe
 | **[Site institucional + blog](case-studies/site-institucional.md)** | Site com blog, ferramentas gratuitas para sellers e captação de leads via proxy same-origin, para manter credencial fora do cliente. | HTML · CSS · JS · PHP · Apache |
 | **[Calculadoras de precificação](case-studies/calculadoras.md)** | Simulação de margem de contribuição e ROAS de equilíbrio por marketplace, com histórico sincronizado entre dispositivos. | React · TypeScript · AWS DynamoDB |
 
-### Como eu verifico o que entrego
+### Verificação
 
-Não basta rodar em produção — precisa continuar certo depois que alguém mexer.
-
-- **Cockpit Comercial:** 121 asserções em pgTAP rodando a cada push, contra as policies reais num Postgres limpo. Cobrem autorização por papel, regra de comissão, agenda, importação e as quatro origens de lead.
-- **SPI:** CI com typecheck, testes e build. O middleware de autenticação é *fail-closed* — quando o banco cai, ele nega em vez de liberar.
-- **Calculadoras:** as fórmulas de precificação têm suíte própria, escrita sobre um exemplo conferível na mão. Numa ferramenta cujo único produto é o número que devolve, é a cobertura que mais importa.
+Os sistemas acima têm CI: o **Cockpit** roda 121 asserções em pgTAP contra as policies reais a cada push; **SPI** e **calculadoras** rodam typecheck, testes e build. As fórmulas de precificação são testadas sobre um exemplo conferível na mão.
 
 ---
 
